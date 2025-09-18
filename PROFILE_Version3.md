@@ -1,0 +1,11 @@
+# Paul Ikin
+
+Paul Ikin is a senior technology executive with more than 30 years of experience leading enterprise IT transformation, application modernization, and cloud migration programs for Fortune 500 companies.
+
+He currently serves as Global Head of ATX Replatform at Amazon Web Services (AWS), where he drives the strategic modernization of legacy mainframe systems to next-generation, cloud-enabled platforms. His leadership has delivered measurable results including 40% reductions in migration timelines and 25%+ cost savings, while enabling greater agility and resilience for global enterprises.
+
+Previously, Paul held senior leadership roles at Google Cloud, where he built global customer success and partner strategies for mainframe modernization, achieving double-digit growth in modernization revenue and significantly improving client retention. Earlier in his career, he held executive roles at DXC Technology, Atos, Astadia, and IBM, where he managed multi-million-dollar portfolios, delivered large-scale modernization programs, and consistently improved operational performance for defense, aerospace, consumer, and financial services clients.
+
+Paul holds a Bachelor of Science in Information Assurance and Security from Capella University and a BA in Hotel & Travel Management from the University of Johannesburg. A former Communications Specialist in the South African Navy Special Warfare unit, he is known for disciplined, mission-driven leadership.
+
+He has been recognized with industry honors including Sales Executive of the Year and Platinum Club, reflecting his track record of both technical and commercial excellence.
